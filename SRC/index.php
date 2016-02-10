@@ -9,7 +9,12 @@
 
 <body>
   <div class="container-fluid">
-    <div id="banner"><h1 style= "text-align: center; padding: 10px">World Risk</h1></div>
+    <div id="banner">
+      <button type="button" class="btn btn-default btn-lg">
+        <span class="glyphicon glyphicon-nav" aria-hidden="true"></span> Setting
+      </button>
+      <h1 style= "text-align: center; padding: 10px">World Risk</h1>
+    </div>
   </div>
 </body>
 
